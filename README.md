@@ -24,6 +24,10 @@ Bu depo, öğrenme ve pratik amacıyla yapılmış küçük Python projelerini i
    - EN: A shopping list app that allows adding, removing, and viewing items.
    - TR: Ürün ekleme, silme ve görüntüleme özellikleri olan bir alışveriş listesi uygulaması.
 
+5. **student_grades.py**
+   - EN: A simple student grades analysis with Pandas (averages, sorting, charts, CSV export)
+   - TR: Pandas ile öğrenci not analizi (ortalamalar, sıralama, grafik, CSV kaydı)
+
 ---
 
 ## 🚀 How to Run | Nasıl Çalıştırılır
