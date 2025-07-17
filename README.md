@@ -51,21 +51,3 @@ Feel free to explore and improve these projects!
 Bu projeleri keşfedebilir ve geliştirebilirsin!
 
 ---
-
-✅ **Yapman gereken tek şey:**  
-
-1️⃣ Terminalde:  
-
-```bash
-nano README.md
-
-2️⃣ Bu metni komple kopyala ve yapıştır
-
-3️⃣ Kaydet: Ctrl + O → Enter → Ctrl + X
-
-4️⃣ Sonra:
-git add README.md
-git commit -m "Add bilingual README.md"
-git push
-
-Ve GitHub’da gözükecek. 🎉
