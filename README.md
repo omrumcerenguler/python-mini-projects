@@ -46,10 +46,9 @@ cd python-mini-projects
 3. Run any script with Python | İstediğin dosyayı çalıştır
 python3 shopping_list.py
 
-🛠 R equirements | Gereksinimler
+🛠  equirements | Gereksinimler
 Python 3.x
 
-📸  Screenshots (optional) | Ekran Görüntüleri (opsiyonel)
 
 Feel free to explore and improve these projects!
 Bu projeleri keşfedebilir ve geliştirebilirsin!
