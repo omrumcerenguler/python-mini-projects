@@ -28,6 +28,10 @@ Bu depo, öğrenme ve pratik amacıyla yapılmış küçük Python projelerini i
    - EN: A simple student grades analysis with Pandas (averages, sorting, charts, CSV export)
    - TR: Pandas ile öğrenci not analizi (ortalamalar, sıralama, grafik, CSV kaydı)
 
+6. **titanic_exploratory_data_analysis.py**  
+   - EN: Exploratory Data Analysis (EDA) on the Titanic dataset, including data cleaning, visualization, and survival analysis.  
+   - TR: Titanic veri seti üzerinde veri temizleme, görselleştirme ve hayatta kalma analizi içeren Keşifsel Veri Analizi (EDA) projesi.  
+
 ---
 
 ## 🚀 How to Run | Nasıl Çalıştırılır
